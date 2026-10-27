@@ -1,0 +1,11 @@
+# 构建产物(由 build.bat 生成; Release 附件取自 build/DeepSeekPlugin.dll, 不入库)
+build/
+
+# 测试器运行时生成的配置与样例凭据
+testcfg/
+
+# 编辑器/系统垃圾
+.vs/
+*.user
+Thumbs.db
+Desktop.ini
